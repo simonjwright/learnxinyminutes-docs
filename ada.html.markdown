@@ -385,7 +385,7 @@ Or, download [Alire](https://alire.ada.dev), copy it to somewhere in your PATH a
 ```bash
 $ alr search learnadainy
 $ alr get learnadainy
-$ cd learnadainy
+$ cd learnadainy*
 $ alr run empty
 $ alr run hello
 $ alr run learnadainy
